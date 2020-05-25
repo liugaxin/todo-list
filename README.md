@@ -26,23 +26,22 @@
 
 ## 操作說明
 
-###專案下載
+專案下載
 ```sh
 git clone https://github.com/liugaxin/todo-list.git
 ```
-###安裝package
+安裝package
 ```sh
 npm install
 ```
-###新增種子資料
+新增種子資料
 ```sh
 npm run seed
 ```
-###使用nodemon啟動伺服器
+使用nodemon啟動伺服器
 ```sh
 npm run dev
 ```
-or
 # Link (Heroku)
 http://secret-woodland-09823.herokuapp.com
 
